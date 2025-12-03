@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Rosenmontags Bild Kurier — E-Mail</title>
+</head>
+<body>
+  <p>Wenn sich dein E-Mail-Programm nicht automatisch öffnet, klicke auf den Button:</p>
+  <p>
+    <a href="mailto:rosenmontagsbildkurier@gmail.com?subject=Rosenmontags%20Bild%20Kurier%20Beitrag">
+      E-Mail an Rosenmontags Bild Kurier senden
+    </a>
+  </p>
+
+  <script>
+    window.location.href = "mailto:rosenmontagsbildkurier@gmail.com?subject=Rosenmontags%20Bild%20Kurier%20Beitrag";
+  </script>
+</body>
+</html>
